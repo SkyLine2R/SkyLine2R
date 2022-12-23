@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkyLine2R
-- 👀 I’m interested in JS PHP HTML CSS...
-- 🌱 I’m currently learning JS HTML CSS
+- 👀 I’m interested in HTML CSS & JS & Node JS & PHP
+- 🌱 I’m currently learning JS & Node JS & HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me oleg.vasilenko@gmail.com
 
